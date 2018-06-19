@@ -34,6 +34,7 @@ def find_a(array)
     if array[0].start_with?("a")
       word
     end
+  end
 end
 
 def sum_array(array)

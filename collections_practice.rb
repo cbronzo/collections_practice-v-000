@@ -30,7 +30,7 @@ def kesha_maker(array)
 end
 
 def find_a(array)
-  array.find
+  array.start_with?
 end
 
 def sum_array(array)
